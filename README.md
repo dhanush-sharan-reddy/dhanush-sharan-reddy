@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhanush Reddy
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Unsupervised Machine learning algorithms.
+- 👀 I’m interested in Data Science and AI-ML.
+- 🌱 I’m currently Working on Agentic AI Projects. 
 - 📫 Reach me on dhanushsharanreddy@gmail.com
 
 
